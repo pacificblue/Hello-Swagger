@@ -1,3 +1,4 @@
-flask-restplus
+flask_restful
 flask-sqlalchemy
 flask-swagger-ui
+flask-restplus
