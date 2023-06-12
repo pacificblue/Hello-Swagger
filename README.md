@@ -1,4 +1,4 @@
-# Hello-Swagger
+# Hello-Swagger-and-Keycloak
 A Flask app using Swagger UI and Keycloak
 
 ## app0 
